@@ -1,0 +1,26 @@
+.memory-list {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    width: 300px;
+  }
+  
+  .memory-item {
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .memory-item h3 {
+    margin: 0;
+  }
+  
+  .memory-item img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+  }
+  

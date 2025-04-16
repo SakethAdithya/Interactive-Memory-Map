@@ -1,0 +1,14 @@
+.map-container {
+    height: 400px;
+    width: 600px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .marker {
+    font-size: 20px;
+    color: red;
+  }
+  
+  
